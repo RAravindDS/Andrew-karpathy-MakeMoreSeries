@@ -5,11 +5,18 @@ repo_name: RAravindDS/Andrew-karpathy-MakeMoreSeries
 
 theme: 
   name: material 
+  logo: assets/andrej.jpg
+  favicon: assets/andrej.jpg
   features:
     - navigation.instant
     - navigation.top
+    - search.suggest
+    - search.highlight
   palette:
     primary: black
+
+  font:
+    text: Roboto
 
 markdown_extensions:
   - meta
