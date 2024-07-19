@@ -32,3 +32,5 @@ nav:
   - 02. Build MLP: '01-MLP.ipynb'
   - 03. Understand activations and gradients: '1-UnderstandingActivationsGradientMore.ipynb'
   - 04. Understand torch mean: '2-UnderstandingTorchMean.ipynb'
+  - 05. Understanding Derivaties: '01-Understanding-Derivaties.ipynb'
+  - 06. Neural Net Library: '02-NerualNetLibrary.ipynb'
